@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/samsam16/CSE100.svg?branch=master)](https://travis-ci.org/samsam16/CSE100)
+[![Build Status](https://travis-ci.com/samsam16/CSE110.svg?token=pwe3r8gWWMZ6f3PzhqGA&branch=main)](https://travis-ci.com/samsam16/CSE110)
